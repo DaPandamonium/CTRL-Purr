@@ -39,9 +39,9 @@ all_years_data = all_medals.copy()
 all_years_data['Total Medals'] = all_years_data['Gold'] + all_years_data['Silver'] + all_years_data['Bronze']
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.DARKLY])
+server = app.server
 app.title = 'Olympics Analysis Dashboard'
 app.config.suppress_callback_exceptions = True
-server = app.server
 
 app.layout = html.Div(style={'backgroundColor': '#2c2f33', 'color': '#FFFFFF'}, children=[
     dbc.NavbarSimple(
