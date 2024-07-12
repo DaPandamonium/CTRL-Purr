@@ -1,1 +1,1 @@
-web: gunicorn olympics:app.server
+web: gunicorn olympics:server
