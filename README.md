@@ -23,7 +23,10 @@ Using datasets from the Olympic Games of Rio de Janeiro and Tokyo, we plotted to
 - We were able to dive into the world of data visualization, exploring possibilities with different graphs in **Plotly** and **Dash** libraries.
 - Finding ways to work out planning, ideas and executing, and split tasks between **the team** in a Data Science project proved really difficult.
   - To make sure we were all on the same page, we started the planning on a call, **brainstorming** and looking for ways to execute all of our ideas for the project.
+  - While cleaning the datasets, we **made decisions as a team**, ensuring we wouldn't discard any data someone could have use for.
   - We then stayed on call for the most part of the execution period, **sharing our findings and ideas** as we went along.
+- We started making the project using Google Colab, but took the project into **VSCode** to be able to use Dash for the plotting.
+  - Colab was a good tool for cleaning the data, as it is a notebook and allowed us to see the results right away and organize these clean datasets.
 
 ## Hypothesis
 
