@@ -1,7 +1,11 @@
-# CTRL + Purr @ Summer Hackathon 2024 by Codedex
+# CTRL + Purr @ Summer Hackathon 2024 by [Codedex](https://www.codedex.io/hackathon)
 
 ![Team Banner](https://github.com/DaPandamonium/CTRL-Purr/blob/main/Hackathon/team_banner.png?raw=true)
 
+### Team Members
+- [Max](https://github.com/SoMaxB)
+- [Mika](https://github.com/pokemika)
+- [DaPanda](https://github.com/DaPandamonium)
 
 # Olympics Predictions
 ## Description
